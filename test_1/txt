@@ -43,6 +43,6 @@ while(True):
         time.sleep(3)
         print(f"шучу денег я не дам удачи")
 
-    
+print("вот и всё")   
 
 
